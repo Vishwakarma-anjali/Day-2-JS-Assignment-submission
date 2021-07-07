@@ -1,1 +1,1 @@
-# Day-2-JS-Assignment-submission
+JS-Assignment-submission
